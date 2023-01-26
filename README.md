@@ -6,20 +6,35 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+import sys
 
-### Step 2: 
- 
-### Step 3: 
+### Step 2:
+initially make count = 0
 
-### Step 4:  
+### Step 3:
+open the content file using command line arguments.
 
-### Step 5: 
+### Step 4:
+by using for loop name the function as "line"
 
-### Step 6: 
+### Step 5:
+split the line using .split
+
+### Step 6:
+split the line using .split
 
 ## PROGRAM:
-
+```python
+import sys
+count=0
+with open(sys.argv[1],'r') as f1:
+        for line in f1:
+            word= line.split()
+            count += len(word)
+print("word Count in file = ",count)     
+```
 ### OUTPUT:
+![output](./output.png)
 
 
 
