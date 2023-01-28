@@ -11,10 +11,10 @@ Import sys libraray using import command.
 #### Step 2:
 Assign a empty dictionary to a variable.
 
-#### #### #### Step 3:
+#### Step 3:
 Open the text file using command "with open(sys.argv[index]).
 
-#### #### Step 4:
+#### Step 4:
 Read the lines in the file using for using.Using for loop, read every word in a line.
 
 #### Step 5:
