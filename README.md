@@ -42,7 +42,7 @@ for i in fp:
 print(d)    
 ```
 ### OUTPUT:
-![output](./output.png)
+
 
 
 
