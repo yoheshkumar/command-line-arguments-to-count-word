@@ -43,8 +43,7 @@ print(d)
 ```
 ### OUTPUT:
 
-
-
+![output](./last.jpg)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
